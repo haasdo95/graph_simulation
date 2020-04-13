@@ -1,0 +1,17 @@
+{
+  "SUSCEPTIBLE": {
+    "INFECTED": {
+      "neighbor": 10,
+      "trigger": "INFECTED",
+      "rate": 0.056
+    }
+  },
+  "INFECTED": {
+    "REMOVED": {
+      "neighbor": -1,
+      "trigger": "",
+      "rate": 0.243902439
+    }
+  },
+  "REMOVED": {}
+}

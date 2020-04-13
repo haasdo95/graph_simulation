@@ -1,0 +1,30 @@
+# OS
+.DS_Store
+
+# Editors
+.idea
+.vscode
+
+# Python
+__pycache__
+.ipynb_checkpoints
+
+# LaTeX
+*.aux
+*.bbl
+*.blg
+*.fls
+*.log
+*.synctex.gz
+*.fdb_latexmk
+
+# SBT related
+dist/*
+target/
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
+.history
+.cache
+.lib/
